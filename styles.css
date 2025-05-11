@@ -385,6 +385,10 @@ nav {
     color: var(--background-color);
 }
 
+#sobre .section-title {
+    color: var(--background-color);
+}
+
 .features-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
